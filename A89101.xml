@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech made by Captaine Audley Mervin to the Vpper House of Parliament in Ireland, March 4. 1640. Together with certaine articles (of high treason) against Sir Richard Bolton Lord Chancellor, John Lord Bishop of Derrie, Sir Gerard Lowther, Lord chiefe Justice of the Common-Pleas, and Sir George Radcliffe Knight. Unto which is added an humble and just remonstrance of the Parliament.</title>
+            <author>Mervyn, Audley, Sir, d. 1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89101</idno>
+            <idno type="STC">Wing M1889</idno>
+            <idno type="STC">Thomason E196_37-38</idno>
+            <idno type="STC">ESTC R14843</idno>
+            <idno type="EEBO-CITATION">99859747</idno>
+            <idno type="PROQUEST">99859747</idno>
+            <idno type="VID">111844</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89101)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111844)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E196[37-38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech made by Captaine Audley Mervin to the Vpper House of Parliament in Ireland, March 4. 1640. Together with certaine articles (of high treason) against Sir Richard Bolton Lord Chancellor, John Lord Bishop of Derrie, Sir Gerard Lowther, Lord chiefe Justice of the Common-Pleas, and Sir George Radcliffe Knight. Unto which is added an humble and just remonstrance of the Parliament.</title>
+                  <author>Mervyn, Audley, Sir, d. 1675.</author>
+                  <author>Ireland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Hugh Perry,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Anno Dom. 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "The above speeches is joyned with ye 16 queries.".</note>
+                  <note>On page 14: "Signed Philip Phernesly. Cler. Parliamenti.".</note>
+                  <note>In this edition the imprint is in two lines; a variant has one line.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Pages 12-14, "Articles of the knights, citizens, and burgesses ... against Sir Richard Bolton [et al.]" have the Thomason number "38" written on p. 12.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bramhall, John, 1594-1663.</term>
+               <term>Bolton, Richard, --  Sir, 1570?-1648.</term>
+               <term>Lowther, Gerard, --  Sir, 1589-1660.</term>
+               <term>Radcliffe, George, --  Sir, 1593-1657.</term>
+               <term>Treason --  Great Britain --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111844:1" rendition="simple:additions"/>
+            <pb facs="tcp:111844:1" rendition="simple:additions"/>
+            <p>A SPEECH MADE BY CAPTAINE <hi>Audley Mervin</hi> to the Vpper Houſe of Parliament in <hi>Ireland, March</hi> 4. 1640. Together With certaine Articles (of high Treaſon) againſt Sir <hi>Richard Bolton</hi> Lord Chancellor, <hi>John</hi> Lord Biſhop of <hi>Derrie,</hi> Sir <hi>Gerard Lowther,</hi> Lord chiefe Juſtice of the <hi>Common-Pleas,</hi> and Sir <hi>George Radcliffe</hi> Knight. <hi>Unto which is added an humble and just Remonſtrance of the Parliament.</hi>
+            </p>
+            <p>Printed for HVGH PERRY, <hi>Anno Dom.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:111844:2"/>
+            <pb n="1" facs="tcp:111844:2"/>
+            <head>CAPTAINE AVDLEY MERVIN, his Speech to the Lords in the Vpper Houſe of Parliament, <hi>March</hi> 4. 1640. concerning the impeachment of the Right Honourable Sir <hi>Richard Bolton</hi> Knight, Lord Chancellor of <hi>Ireland, John</hi> Lord Biſhop of <hi>Derry,</hi> Sir <hi>Gerard Lowther,</hi> L. chiefe Juſtice of the <hi>Common-pleas,</hi> and Sir <hi>George Radcliffe</hi> Knight with high Treaſon, by the Knights, Citizens, and Burgeſſes of the Com-mons Houſe.</head>
+            <opener>
+               <salute>My Lords:</salute>
+            </opener>
+            <p>I Am commanded by the Knights, Citizens, and Burgeſſes of the Commons houſe, to preſent unto you <hi>Irelands</hi> tragedy, the gray-headed common Lawes funerall, and the active Statutes death and obſequies, this dejected ſpectacle anſwers but the prefiguring type of <hi>Ceſars</hi> murther wounded to death in the Senate, and by <hi>Brutus</hi> his boſome friend, our <hi>Ceſars</hi> Image, by reflexion, even the fundamentall Lawes and Statutes of this Kingdom, the ſole meanes by which our eſtates are confirmed, our Liberties preſerved, our lives ſecured, are woun<g ref="char:EOLhyphen"/>ded to death in the Senate, I meane in the Courts of Juſtice, and by <hi>Brutus</hi> too, even by thoſe perſons that have received their beings and ſubſiſtence from
+<pb n="2" facs="tcp:111844:3"/>
+them, ſo that here enters firſt thoſe unſeparable twins, <hi>Treaſon</hi> and <hi>Ingratitude.</hi>
+            </p>
+            <p>In a plaine phraſe (my Lords) I tender unto you Treaſon, high treaſon, ſuch a treaſon that wants no<g ref="char:EOLhyphen"/>thing but words to expreſſe it.</p>
+            <p>
+               <hi>To counterfeit the Kings Seale, to counterfeit the Kings Money it is treaſon, but this dyes with the In<g ref="char:EOLhyphen"/>dividuall party.</hi>
+            </p>
+            <p>
+               <hi>To betray a Fort is treaſon, but it dyes with a few men.</hi>
+            </p>
+            <p>
+               <hi>To betray an Army is treaſon, but it dyes with a li<g ref="char:EOLhyphen"/>mited number, which may bee reinforced againe by po<g ref="char:EOLhyphen"/>litique induſtry.</hi>
+            </p>
+            <p>
+               <hi>To blow Up both Houſes of Parliament is treaſon, but ſucceeding Ages may replant branches by a fruit<g ref="char:EOLhyphen"/>full poſteritie.</hi>
+            </p>
+            <p>But this high Treaſon which I doe now againe in the name of the houſe of Commons charge and im<g ref="char:EOLhyphen"/>peach Sir <hi>Richard Bolton</hi> Knight, Lord <hi>Chansellour</hi> of <hi>Ireland,</hi> and Sir <hi>Gerard Lowther</hi> Knight, Lord chiefe Juſtice of the Court of <hi>Common-Pleas, John</hi> L. Biſhop of <hi>Derry:</hi> Sir <hi>George Ratcliffe</hi> Knight, is in its nature ſo ſarre tranſcending any of the for<g ref="char:EOLhyphen"/>mer, that the reſt ſeeme to bee but pettie <hi>Larcines</hi> in reſpect of this. What is it to ſubvert the funda<g ref="char:EOLhyphen"/>mentall Lawes of this Kingdome? High Treaſon.</p>
+            <p>What is it with a contumacious malice to tram<g ref="char:EOLhyphen"/>ple vnder feet the rich Legacies of our fore-Fathers purchaſed with ſweate and expence, I meane the Sta<g ref="char:EOLhyphen"/>tute Lawes, what is it but high Treaſon?</p>
+            <p>What is it through an Innate antipathy to their publique good to incarcerate the liberties of the Subject, vnder the Jron and weighty chaines of an arbitrary government? High Treaſon.</p>
+            <p>
+               <pb n="3" facs="tcp:111844:3"/>
+What is it (ſince his Majeſtie the moſt aimia<g ref="char:EOLhyphen"/>ble and delightfull portraiture of flouriſhing and indulgent Juſtice to his Subjects) to preſent him perſonated in their extrajudiciall cenſures &amp; judge<g ref="char:EOLhyphen"/>ments, but to poſſeſſe (if poſſible) the hearts of his loyall Subjects of this Kingdome, that he is a bloo<g ref="char:EOLhyphen"/>dy and devouring Tyrant, &amp; to provoke their never dying alleageance into a fatall &amp; deſperate Rebellio.</p>
+            <p>What is it to violate the ſacred grants of many of his Majeſties Progenitors Kings and Queens of <hi>En<g ref="char:EOLhyphen"/>gland</hi> confirmed vnder the broad Seale being the publique faith of this Kingdome, by an extrajudici<g ref="char:EOLhyphen"/>all breath grounded upon no record?</p>
+            <p>What is it to inſert a ſurreptitions clauſe forged by ſome ſervile braine in the preamble of our laſt Act of Subſidies, by which the Kings moſt excellent Majeſtie and the Earle of <hi>Strafford</hi> are placed in one and the ſame Sphere, allowing them but equall influences to nouriſh the alleageance of this King<g ref="char:EOLhyphen"/>dome, what is this but to extoll other then regall au<g ref="char:EOLhyphen"/>thority, and to crucifie the Majeſtie of cur moſt gra<g ref="char:EOLhyphen"/>cious Soveraigne betwixt the two Theeves of go<g ref="char:EOLhyphen"/>vernment: Tyrannie and Treaſon.</p>
+            <p>
+               <hi>My Lords,</hi> having ſuch a full &amp; laſting gale to drive me into the depth of theſe accuſations, I can hardly ſteere &amp; confine my courſe within the compaſſe of patience, ſince I read in the firſt volumes of their browes, the leaſt of theſe to be the certaine ruine of the Subject, &amp;, if prov'd, a moſt favorable Prologue to uſher in the Tragedy of the Actors, Counſellours, &amp; abetters herein. What was then the firſt &amp; main queſtion? It was the ſubverſion of the fundamentall Lawes of this Kingdome. Letthen <hi>Magna Charta,</hi> that lies proſtrated, beſmeared and roaling in her owne
+<pb n="4" facs="tcp:111844:4"/>
+gore diſcount her wounds as ſo many pregnant and vndeniable proofes marke the <hi>Epithite magna;</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> confirmed by 30. Parliaments in the ſucceſ<g ref="char:EOLhyphen"/>ſion of 18. Kings, the violation of which hath ſeve<g ref="char:EOLhyphen"/>rall times engaged the Kingdome of <hi>England</hi> in a vo<g ref="char:EOLhyphen"/>luntary ſacrifice; a Charter w<hi rend="sup">ch</hi> impoſeth that plea<g ref="char:EOLhyphen"/>ſant and wel be comming Oath upon all Soveraignty to vindicate &amp; preſerve the immunitie there of be<g ref="char:EOLhyphen"/>fore the Crown incircle their royall Temples, in this Oath of ſo high conſequence and generall Intreſt, his Majeſtie doth in a manner levy a fine to his Sub<g ref="char:EOLhyphen"/>jects vſe, for avoiding all fraudulent conveyances in the adminiſtratio<g ref="char:cmbAbbrStroke">̄</g> of Juſtice, &amp; this oath is tranſplan<g ref="char:EOLhyphen"/>ted vnto the Judges as the Feoffees in truſt appoin<g ref="char:EOLhyphen"/>ted between his Majeſty &amp; the Subject, &amp; ſeal'd by his Majeſties provident care, with that emphaticall penalty, that their eſtates and lives ſhall bee in the Kings mercy, upon the violation of the ſame, either in whole or in part, neither hath the deſerved pu<g ref="char:EOLhyphen"/>niſhment, for the breach of this oath been enacted, as <hi>Fulgura ex vitro,</hi> as <hi>Bugbeares</hi> to inforce the obedi<g ref="char:EOLhyphen"/>ence of Children; No <hi>my Lords,</hi> the juſt executio<g ref="char:cmbAbbrStroke">̄</g> of it upon their predeceſſors, though in breaches not ſo capitall, might have warn'd them to have ſtrangled their ill-borne reſolutions in the cradle, before they ſhould now proclaime their infamy, and petition for their puniſhment: witneſſe Sir <hi>Tho: Wey land</hi> his baniſhment, confiſcation of his goods and lands, only for his mercenary Juſtice contrary to his Oath, who was chiefe Juſtice of the <hi>Common-Pleas,</hi> in the time of <hi>Ed.</hi> 1. witneſſe Sir <hi>Will: Thorpe</hi> chiefe Juſtice of the <hi>Kings-Beach,</hi> in the time of <hi>Edw.</hi> 3. who was adjud<g ref="char:EOLhyphen"/>ged to be hanged, becauſe he had broken the Kings oath, made vnto the people where with he was intru<g ref="char:EOLhyphen"/>ſted, for ſo was the interpretation of the reaſon en<g ref="char:EOLhyphen"/>tred in the Rolle.</p>
+            <p>
+               <pb n="5" facs="tcp:111844:4"/>
+Yet <hi>my Lords,</hi> though <hi>Magna Charta</hi> be ſo ſacred for antiquity, though its confirmation be ſtrengthened by Oath, though it be the proper Dictionary that expounds <hi>meum</hi> and <hi>tuum,</hi> and aſſignes every Subject his Birth-right, it onely ſurvives in the Rolles; but is miſerably rent and torne in the practiſe.</p>
+            <p>Theſe words <hi>Salvo contenemento,</hi> live in the Rols, but theſe are dead in the Caſtle Chamber.</p>
+            <p>Theſe words; <hi>Nullus liber hujus ejiciatur e libero ſuo tenemento, in praejudicium parium,</hi> live in the Rols, but they are dead where property and free-hold are determined by paper Petitions.</p>
+            <p>Theſe words; <hi>Nulli vendemus, nulle differemus Iuſtitiam,</hi> live in the Rols, but they are dead when the ſuites, judgements, and execution of the Subject are wittingly &amp; illegally ſuſpe<g ref="char:cmbAbbrStroke">̄</g>ded, retarded &amp; avoided.</p>
+            <p>Shall we deſire to ſearch the mortall wounds in<g ref="char:EOLhyphen"/>flicted upon the Statute Lawes, who ſees them notly<g ref="char:EOLhyphen"/>ing upon their death bed ſtab'd with Proclamations, there Primitive and genuine tenures eſcheated by Acts of State, and ſtrangled by <hi>Monopolies.</hi>
+            </p>
+            <p>Will you ſurveigh the liberties of the Subjects, e<g ref="char:EOLhyphen"/>very priſon ſpues out illegall attachments &amp; com<g ref="char:EOLhyphen"/>mitments, every pillory is dyed w<hi rend="sup">th</hi> the forced blood of the Subjects, and hath eares, though not to heare, yet to witneſſe this complaint.</p>
+            <p>Doe you doubt of the defacement of the aymia<g ref="char:EOLhyphen"/>ble Offices of his Majeſties moſt tranſplendent and Renowned Iuſtice, and grace, let then that <hi>Micro<g ref="char:EOLhyphen"/>coſme</hi> of Leters Patents confirmed under his Maje<g ref="char:EOLhyphen"/>ſties and his predeceſſors broad Seale of the King<g ref="char:EOLhyphen"/>dome, being the publique faith thereof, and yet un<g ref="char:EOLhyphen"/>chriſtened by frivolous &amp; private opinions, riſe up in Iudgement, let the abortive Iudgement of the te<g ref="char:EOLhyphen"/>nure
+<pb n="6" facs="tcp:111844:5"/>
+in Capite, where no tenure was expreſt, nay let the Hereticall and Trayterous opinions where the Tenure was expreſt, yet to draw in all by Mar<g ref="char:EOLhyphen"/>kets and Faires granted in the ſame Patents riſe up in Iudgments. What glaſſe hath this unhappy divi<g ref="char:EOLhyphen"/>ded Kingdome from his Majeſties preſence and au<g ref="char:EOLhyphen"/>dience, to contemplate the faire and raviſhing forme of his royall intentions in, but in the cleere and dia<g ref="char:EOLhyphen"/>phanous adminiſtration of his Juſtice, and what doe theſe traytrous &amp; illegall practiſes ayme at but in affront to his Majeſtie (which we moſt tenderly re<g ref="char:EOLhyphen"/>ſent) and diſcontent to his Subject, to multiply as by a Magicke glaſſe the royall diſpenſation of his fa<g ref="char:EOLhyphen"/>vors into the ugly and deformed viſage of their ſup<g ref="char:EOLhyphen"/>preſſion of the liberties, devaſtation of the eſtates, &amp; the deprivation of the lives of his loyall Subjects, ſo that it may be ſaid; <hi>Regali Capiti cervicem conſul equiaam Jungere ſic vellet variaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> inducere plumas.</hi>
+            </p>
+            <p>
+               <hi>My Lords,</hi> theſe ought to be conſidered with as ſerious an care, as they were practiſed by miſchie<g ref="char:EOLhyphen"/>vous experiments.</p>
+            <p>Inquire of the <hi>Netherlands</hi> why their fields are grown fertile, by the inundation of blood, why the penſive Matrons ſolemnize too too frequent Funerals of their Husbands and iſſue, and they will anſwer you it was for the preſervation of their hereditary Lawes, which Tyranny would have innovated.</p>
+            <p>This Kingdome perſonated in the ſable habit of a Widdow with diſſheveled hayres ſeemes to Petiti<g ref="char:EOLhyphen"/>on your <hi>Lordſhips,</hi> that ſince ſhe is a Mother to moſt of us, yet certainly a Nurſe unto us all, that you would make ſome order for redreſſe of her Tyranni<g ref="char:EOLhyphen"/>call oppreſſion.</p>
+            <p>
+               <pb n="7" facs="tcp:111844:5"/>
+Theſe perſons impeached, reſemble the <hi>opacious</hi> body of the Earth interpoſed to eclipſe that light and vigour, which the ſolar aſpect of Majeſtie would communicate vnto his Subjects.</p>
+            <p>They imitate the fiſh <hi>Sepia,</hi> that vomits a dark li<g ref="char:EOLhyphen"/>quor out of her mouth to cloude the waters for her ſecurer eſcape.</p>
+            <p>They are thoſe to whom the keyes have bin com<g ref="char:EOLhyphen"/>mitted, yet they have barred the doore to them that knock't.</p>
+            <p>They are theſe unnaturall Parents, that give their children ſtones, in ſtead of bread, and ſcorpions for fiſh. Was it for this purpoſe that y<hi rend="sup">e</hi> royall authori<g ref="char:EOLhyphen"/>tie ſcituated them in theſe eminent places, that, like Beacons upon high Hills, they ſhould diſcover and proclaime each innovation and ſtratagem againſt the publique weale; whileſt they in the mean time imploy therein fire to a publique Incendiary, or, like <hi>Ignes fatui,</hi> ſeduce the eaſie and beleeving Traveller into pits and unexpected Myres?</p>
+            <p>Were they ſworne to ſeale their damnation, and not the confirmation of our liberty, oſtates, &amp; lives? Shall a man be cenſured for <hi>perjury,</hi> in that breach of his private Faith, &amp; theſe be juſtifiable in Treaſon, aggravated by <hi>perjury</hi> againſt the dignity of the Crownes, and publique faith of the Kingdomes? No my <hi>Lords,</hi> the grave, judicious, and mature exa<g ref="char:EOLhyphen"/>mination, and deſerved puniſhment of theſe traite<g ref="char:EOLhyphen"/>rous proceedings, will ſpeak theſe times as glorious to poſterity in their information, as they are now la<g ref="char:EOLhyphen"/>mented in their perſecution.</p>
+            <p>The bloud-thirſting ſword of an hoſtile enemy, by a timely union, and a defenſive preparation may be prevented.</p>
+            <p>
+               <pb n="8" facs="tcp:111844:6"/>
+The thin rib'd Carcaſſe of an univerſall famine, may have his conſumption reſtored by a ſupply fro<g ref="char:cmbAbbrStroke">̄</g> our neighboring Nations.</p>
+            <p>The quicke ſpreading venome of infectious peſti<g ref="char:EOLhyphen"/>lence may bee prevented by antidots and qualified by phyſicall remedies. But this Catholicke grie<g ref="char:EOLhyphen"/>vance, like a ſnake in the moſt verdant walkes, (for ſuch are the unblemiſhed lawes truly practiſed) ſtings vs to death, when we are moſt ſecure; and like the Kings evill, can onely be cured by his Majeſties free and gratious premiſſion of our modeſt and gentle procedings, for his vindication and our pre<g ref="char:EOLhyphen"/>ſervation therein included.</p>
+            <p>
+               <hi>Spencer</hi> and <hi>Gamſton</hi> who have left their names monumentally odious for the evill counſell they fed the Kings eare with, yet did poſſibly advantage their owne friends, while theſe dart their envie and treaſon for a common Centery, equal touching the bounds of every ſuperficies: for as concerning y<hi rend="sup">e</hi> valide eſtates they have illegally overthrown, when the lawes by your Lordſhips induſtrie receive their native vigor, they will re-aſſume their confir<g ref="char:EOLhyphen"/>mation: but the eſtates happily in themſelves le<g ref="char:EOLhyphen"/>gall, that they have in an extrajudiciall forme eſta<g ref="char:EOLhyphen"/>bliſhed, will haſte as ſpeedily to their diſſolution ſo that <hi>Iudas</hi> like they betray their beſt friends with a kiſſe.</p>
+            <p>My Lords J cannot finde any ſurviving <hi>Chro<g ref="char:EOLhyphen"/>nologie</hi> of tymes, this ſeaſon to be parallel'd with all circumſtances, which makes me view the Records, amongſt the infernal ſpirits to find, if match't there J might extenuate their facts; where <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they appeare like the falſe ſpirits ſent into the mouth of the Pro<g ref="char:EOLhyphen"/>phet
+<pb n="9" facs="tcp:111844:6"/>
+               <hi>Ahab</hi> to ſpeake deluſions to ſubvert the hoſt of God.</p>
+            <p>The moſt vehement and trayterous encounter of <hi>Sathan,</hi> is lively deciphered in the true example of <hi>Iob:</hi> where firſt, I obſerve the diſaualogie, he over<g ref="char:EOLhyphen"/>throwes not <hi>Iobs Magna Charta,</hi> he diſſeizes him not of his Inheritance, nor diſpoſſeſſes him of his Leaſes; but onely diſrobes him of ſome part of his parſonall eſtate: when he proceeds to infringe <hi>Iobs</hi> liberty, he doth not pillory him, nor cut off his ears, nor bore him through the tongue; he onely ſpots him with ſome ulcers; here <hi>Sathan</hi> ſtaines, when theſe perſons by their <hi>trayterous combinations,</hi> en<g ref="char:EOLhyphen"/>vie the very bloud that runs unſpilt in our veines; and by obtruding bloody Acts, damn'd in the laſt <hi>Parliament:</hi> will give <hi>Sathan ſiſe ace,</hi> and the Dice at <hi>Iriſh,</hi> in inthralling the lives of the Subjects by their <hi>arbitrary Judicature.</hi>
+            </p>
+            <p>I would not my Lords, be underſtood to impute to the Judges: an iufallibility of <hi>errors: nor in im<g ref="char:EOLhyphen"/>peaching theſe, to traduce thoſe, whoſe candor and in<g ref="char:EOLhyphen"/>tegrity, ſhine with more admired luſtre, then their white furres,</hi> who like trophees of virgin-juſtice, ſtood fix't and unmov'd in the <hi>rapid torrent of the times,</hi> while theſe like ſtrawes &amp; chips plai'd in the ſtreames, untill they are devolv'd in the Ocean of their deſerved ruine.</p>
+            <p>No my Lords, <hi>humanum eſt errare,</hi> and the Law allowes <hi>Writs of Error,</hi> and Arreſt of Judgement: but where there is <hi>craſsa ignorantia</hi> againſt their Oath, againſt the Fundamentall, Elementary and knowne Lawes of the Kingdome: Nay (my Lords
+<pb n="10" facs="tcp:111844:7"/>
+where it is rather <hi>praemeditata malitia,</hi> where there is an emulating policy who ſhould raze &amp; embe<g ref="char:EOLhyphen"/>ſell the Records in the practique, that are for the tender preſervation of our liberties, eſtates, and lives, ſeeking onely to be glorious in a nationall deſtru<g ref="char:EOLhyphen"/>ction, as if their ſafety were onely involved in our ruine, there I have command to pitty, but not excuſe them.</p>
+            <p>To kill a Judge, <hi>quatenus</hi> a Judge, is not Treaſon, but to kill a Iudge ſitting in the place of judicature, is treaſon; not for that the law intends it, out of any malice againſt the party, but for the malice againſt the Law: where then can an intenſive or an extenſive malice be expreſt or implyed againſt the Law, then the practicall dialect of theſe perſons impeach't, ſpeakes with a knowne and crying accent.</p>
+            <p>The <hi>Beniamites</hi> ſlang ſtones with their left hands, yet they would not miſſe a haires bredth; theſe ex<g ref="char:EOLhyphen"/>trajudiciall proceedings are ſlung with the left, I meane they are ſiniſtrous, and imprint their blacke and blew markes, more certaine, and more fatall; for that they may ſay, <hi>Quae regio in terris noſtri non plena labor is?</hi> Though theſe things be familiar vnto us, yet I cannot but admire how this unproportionable body of judicature ſhould ſwell up into ſuch a vaſt and ulcerous dimenſion, but why ſhould I conſide<g ref="char:EOLhyphen"/>ring this excentrick motion of the body of the law had his birth obſcure, reſembling the tares that were ſowed in the night time, but here is the diffe<g ref="char:EOLhyphen"/>rence; they were ſowne by the enemy in the abſence of the <hi>Maſter: but theſe are ſowne by the Grand-ma<g ref="char:EOLhyphen"/>ſters themſelves, purpoſely to overtop and choake the expected Harveſt.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:111844:7"/>
+Innovations in Law, and conſequently in govern<g ref="char:EOLhyphen"/>ment, creepe in like hereſies in <hi>Religion,</hi> ſlily and ſlowly, pleading in the end a ſawcy and uſurp't le<g ref="char:EOLhyphen"/>gitimacy, by uncontrol'd preſcription.</p>
+            <p>My <hi>Lords,</hi> this is the firſt ſitting, and I have one<g ref="char:EOLhyphen"/>ly chalked out this deformed body of high Trea<g ref="char:EOLhyphen"/>ſon: I have not drawne it at length, leſt it might fright you from the further view thereof: In con<g ref="char:EOLhyphen"/>cluſion, it is the humble deſire of the <hi>Commons,</hi> that the parties impeached, may be ſecured in their per<g ref="char:EOLhyphen"/>ſons, ſequeſtred from this houſe, from the Counſell table, and all places of judicature, as being <hi>Civiliter mortui;</hi> that they may put in their anſwers to the Articles ready now to be exhibited againſt them; and that all ſuch further proceedings may be ſecret<g ref="char:EOLhyphen"/>ly expedited, as may be ſutable to Juſtice, and the precedents of <hi>Parliaments,</hi> ſo his <hi>Majeſtie</hi> may ap<g ref="char:EOLhyphen"/>peare in his triumphant goodneſſe, and indulgency to his people; and his people may be raviſht in their dutifull and cheerfull obedience, and loyalty to his <hi>Majeſty:</hi> your <hi>Lordſhips</hi> may live in Records to poſterity, as the inſtrumentall reformers of theſe corrupted times, and that the Kingdome and <hi>Com<g ref="char:EOLhyphen"/>mon-wealth</hi> may pay an aymiable ſacrifice in <hi>retri<g ref="char:EOLhyphen"/>bution,</hi> and acknowledgment of his <hi>Majeſties</hi> mul<g ref="char:EOLhyphen"/>tiplyed providence for our preſervation herein.</p>
+         </div>
+         <div type="articles">
+            <pb n="12" facs="tcp:111844:8" rendition="simple:additions"/>
+            <head>Articles of the Knights, Citizens, and Burgeſſes in the <hi>Parliament</hi> aſſembled, againſt <hi>Sir Richard Bolton,</hi> Kt. Lord Chancellor of <hi>Ireland,</hi> Iohn Lord Biſhop of Derry, and ſir Gerard Lowther Kr, L. chiefe Juſtice of his Majeſties Court of Common Pleas, &amp; Sir George Radcliffe Kt. in maintenance of the accuſation, whereby they and every of them ſtand charged with high Treaſon.</head>
+            <div type="article">
+               <p>FIrſt, that they the ſaid Sir <hi>Richard Bolton</hi> Kt. Lord Chancellor of <hi>Ireland, Iohn</hi> L. Biſhop of <hi>Derry,</hi> Sir <hi>Ger. Lowther</hi> Kt. L. chiefe Iuſtice of his <hi>Majeſties</hi> Court of <hi>Common Pleas,</hi> and Sir <hi>George Radcliffe,</hi> Knight, intending the deſtruction of the <hi>Common-wealth</hi> of this <hi>Realme,</hi> have traite<g ref="char:EOLhyphen"/>rouſly confederated and conſpired together, to ſub<g ref="char:EOLhyphen"/>vert the fundamentall Lawes &amp; government of this Kingdome, and in purſuance thereof, they and e<g ref="char:EOLhyphen"/>very of them, have trayterouſly contrived, introdu<g ref="char:EOLhyphen"/>ced, and exerciſed an arbitrary and tyrannicall go<g ref="char:EOLhyphen"/>vernment againſt Law throughout this Kingdome, by the countenance and aſſiſtance of <hi>Thomas</hi> Earle of <hi>Strafford,</hi> then chiefe <hi>Governor</hi> of this kingdome.</p>
+            </div>
+            <div n="2" type="article">
+               <head>II.</head>
+               <p>That they and every of them, the ſaid ſir <hi>Richard Bolton,</hi> Kt. L. Chancellor of <hi>Ireland, Iohn</hi> L. Bp. of <hi>Derry, Sir Gerard Lowther,</hi> Kt. L. chiefe Juſtice of the <hi>Common Pleas,</hi> &amp; <hi>Sir George Radcliffe</hi> Kt have traiterouſly aſſumed to themſelves, &amp; every of the<g ref="char:cmbAbbrStroke">̄</g>, regall power over the goods, perſons, lands, &amp; liber<g ref="char:EOLhyphen"/>ties of his Majeſties ſubjects of this <hi>Realme;</hi> and likewiſe have maliciouſly, perfidiouſly and tray<g ref="char:EOLhyphen"/>terouſly given, declared, pronounced, and publiſhed,
+<pb n="13" facs="tcp:111844:8"/>
+many falſe unjuſt &amp; erronious opinions, <hi>Iudgment Sentences,</hi> &amp; <hi>Decrees,</hi> in extrajudiciall ma<g ref="char:cmbAbbrStroke">̄</g>ner againſt law, and have <hi>perpetrated, practiſed, and done many o<g ref="char:EOLhyphen"/>ther traiterous and unlawfull acts and things, whereby as well divers mutinies, ſeditions and Rebellions have bin raiſed, as alſo many 1000. of his Majeſties liege people of this Kingdome, have bin ruined in their goods, lands, liberties, &amp; lives, &amp; many of them being of good quality and reputation have bin utterly defamed, by Pillory, mutilation of Members, and other infamous puniſhments:</hi> By meanes whereof his <hi>Majeſty</hi> &amp; the Kingdome have bin deprived of their ſervice in <hi>Iu<g ref="char:EOLhyphen"/>ries,</hi> and other publique imployments, and the gene<g ref="char:EOLhyphen"/>rall trade and traffique of this <hi>Iſland</hi> for the moſt part deſtroyed, and his Majeſty highly damnified in his Cuſtomes and other Revenues.</p>
+            </div>
+            <div n="3" type="article">
+               <head>III.</head>
+               <p>That they the ſaid ſir <hi>Rich. Bolton, Iohn</hi> L. B. of <hi>Der<g ref="char:EOLhyphen"/>ry,</hi> ſir <hi>Ger. Lowther,</hi> Kt. and ſir <hi>G. Radcliffe,</hi> &amp; every of them the better to preſerve themſelves, and the ſaid Earle of <hi>Strafford,</hi> in theſe &amp; other traiterous cour<g ref="char:EOLhyphen"/>ſes, have labored to ſubvert the rights of <hi>Parlament</hi> and the antient courſe of <hi>Parliamentary</hi> proceedings: all which offences were contrived, committed, per<g ref="char:EOLhyphen"/>petrated, and done at ſuch time, as the ſaid <hi>Rich. Bolton,</hi> Sir <hi>Gerard Lowther:</hi> &amp; <hi>Sir George Radcliffe</hi> Knights, were privy Counſellors of ſtate within this Kingdome, and againſt their and every of their Oathes of the ſame, at ſuch times as the ſaid Sir <hi>R. Bolton</hi> K. was Lord Chancellor of <hi>Ireland,</hi> or chiefe Baron of his <hi>Majeſties</hi> Court of <hi>Exchequer</hi> within this Kingdome, &amp; <hi>Sir Gerard Lowther</hi> K<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. was L. chiefe Juſtice of the ſaid Court of <hi>Common Pleas,</hi> &amp; againſt their Oathes of the ſame, &amp; at ſuch time as the ſaid <hi>Iohn</hi> L. B. of <hi>Derry</hi> was actuall Bp. of <hi>Derry</hi>
+                  <pb n="14" facs="tcp:111844:9"/>
+within this Kingdome, and were done and ſpeciated contrary to their &amp; every of their allegeance ſeve<g ref="char:EOLhyphen"/>rall and perpetrative oaths taken in that behalfe.</p>
+            </div>
+            <div n="4" type="article">
+               <head>IV.</head>
+               <p>For which the ſaid Knights, Citizens and Burgeſſes, do impeach the ſaid Sir <hi>Richard Bolton,</hi> Lord Chan<g ref="char:EOLhyphen"/>cellor of <hi>Ireland, Iohn Lord B. of Derry,</hi> Sir <hi>Gerard Lowther</hi> Knight, <hi>Lord chieſe Juſtice</hi> of his Majeſties ſaid Court of <hi>Common Pleas,</hi> &amp; Sir <hi>George Radcliffe</hi> K<hi rend="sup">t</hi>. aforeſaid, and every of them of high Treaſon, a<g ref="char:EOLhyphen"/>gainſt our Soveraigne Lord the King, his Crowne and Dignity.</p>
+               <p>The ſaid <hi>Knights, Citizens, and Burgeſses,</hi> by pro<g ref="char:EOLhyphen"/>teſtation ſaving to themſelves the liberty of exhibi<g ref="char:EOLhyphen"/>ting at any time hereafter, any accuſation or im<g ref="char:EOLhyphen"/>peachment againſt the ſaid Sir <hi>Rich. Bolton, Iohn L. Biſhop of Derry,</hi> Sir <hi>Gerrard Lowther,</hi> &amp; Sir <hi>George Radcliffe</hi> aforeſaid, &amp; every of them, &amp; alſo of reply<g ref="char:EOLunhyphen"/>ing to the<g ref="char:cmbAbbrStroke">̄</g>, &amp; every of their anſwers which they, &amp; every of the<g ref="char:cmbAbbrStroke">̄</g>, ſhall make to the ſaid Articles, or any of them, &amp; of offering proofe alſo of the premiſſes, or of any other impeachment, or accuſation, as ſhall be by them exhibited; as the caſe ſhall according to the courſe of Parliament require.</p>
+               <p>And the ſaid <hi>Knights, Citizens, and Burgeſses,</hi> doe pray, <hi>that the ſaid Sir Richard Bolton Knight, Lord Chancellor of Ireland, John Lord Biſhop of Derry, Sir Gerard Lowther, Knight, Lord Chiefe Juſtice of his Majeſties ſaid Court of Common Pleas,</hi> and Sir <hi>George Kadcliffe,</hi> Knight, and every of them, be put to anſwer all and every of the premiſſes, and that all ſuch <hi>proceedings, examinations, Tryall,</hi> &amp; <hi>Judge<g ref="char:EOLhyphen"/>ment,</hi> may be upon them and every of them, had and uſed, as is agreeable to Law and Iuſtice.</p>
+            </div>
+            <closer>
+               <hi>Copia vera.</hi>
+               <signed>Signed PHILIP PHERNESLY.</signed>
+               <hi>Cler. Parliamenti.</hi>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
